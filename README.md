@@ -11,11 +11,11 @@
 
 - ### O projeto cria uma blockchain simples onde:
 
-    - Um bloco gênese (o primeiro bloco da cadeia) é criado.
+    - #### Um bloco gênese (o primeiro bloco da cadeia) é criado.
 
-    - Após a criação do bloco gênese, um novo bloco é gerado automaticamente a cada 3 segundos, com base no bloco anterior.
+    - #### Após a criação do bloco gênese, um novo bloco é gerado automaticamente a cada 3 segundos, com base no bloco anterior.
 
-    - Cada bloco contém:
+    - #### Cada bloco contém:
 
         - Um índice (posição do bloco na cadeia).
         - Um timestamp (data e hora de criação).
