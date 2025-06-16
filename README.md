@@ -1,6 +1,6 @@
 # Blockchain in Java
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![SHA-256](https://img.shields.io/badge/SHA--256-4CAF50?style=for-the-badge&logo=security&logoColor=white)
 
 
 
